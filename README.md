@@ -1,17 +1,16 @@
-# ExoHabit-AI 🌌
+# ExoHabitAI
 
 ## Project Description
-ExoHabit-AI is an intelligent system designed to predict the habitability
-potential of exoplanets using planetary and stellar parameters.
+ExoHabitAI is an AI-based system that predicts the habitability potential of 
+exoplanets using planetary and stellar parameters.
 
 ## Tech Stack
 - Python
-- Pandas, NumPy, Scikit-learn
+- Machine Learning
 - Flask
 - HTML, CSS, JavaScript
-- Matplotlib, Seaborn
+- Data Visualization
 
 ## Project Status
-- Phase 0: Project Initialization & Environment Setup ✅
+- Phase 0: Project Structure Setup ✅
 - Milestone 1: Data Exploration & Understanding ✅
-- Milestone 2: Data Preprocessing & Feature Engineering ✅
