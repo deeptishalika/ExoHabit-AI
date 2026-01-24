@@ -14,3 +14,4 @@ exoplanets using planetary and stellar parameters.
 ## Project Status
 - Phase 0: Project Structure Setup ✅
 - Milestone 1: Data Exploration & Understanding ✅
+- Milestone 2: Data Preprocessing & Feature Engineering ✅
