@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ExoHabitAI - Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #0b1c2d;
+            color: white;
+            text-align: center;
+            padding: 40px;
+        }
+
+        h1 {
+            color: #4fc3f7;
+        }
+
+        img {
+            margin-top: 20px;
+            border-radius: 10px;
+            background: white;
+            padding: 10px;
+        }
+
+        a {
+            color: #4fc3f7;
+            text-decoration: none;
+            font-size: 18px;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Model Dashboard 📊</h1>
+    <h2>Feature Importance</h2>
+
+    <img src="{{ url_for('static', filename='feature_importance.png') }}" width="700">
+
+    <br><br>
+
+    <a href="/">⬅ Back to Prediction Page</a>
+
+</body>
+</html>
